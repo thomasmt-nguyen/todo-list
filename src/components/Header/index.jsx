@@ -1,8 +1,7 @@
 import React from 'react';
-import './styles.css';
 
 const Header = ({header}) => {
-    return <header id='todo-list-header'>{header}</header>
+    return <h2 id='todo-list-header'>{header}</h2>
 }
 
 export default Header;

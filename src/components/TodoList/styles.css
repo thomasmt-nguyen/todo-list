@@ -1,0 +1,8 @@
+#todo-list {
+    width: 400px;
+    min-height: 600px;
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+}
